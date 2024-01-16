@@ -49,4 +49,5 @@
     "vite": "^5.0.9",
     "vite-plugin-static-copy": "^1.0.0"
   }
+  "engines": { "node": "16.x" }
 }
